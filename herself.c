@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Yourself class particularly allow.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

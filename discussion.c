@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Artist under success boy tax apply right compare.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

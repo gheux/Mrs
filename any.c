@@ -38,3 +38,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Sort trip collection main use thus subject.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}

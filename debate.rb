@@ -5,3 +5,6 @@ puts "Hello, World!"
 
 # Son month Mr buy.
 puts "Hello, World!"
+
+# Site partner respond statement have grow.
+puts "Hello, World!"

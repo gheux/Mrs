@@ -10,3 +10,10 @@ int main() {
 	std::cout << "Hello, World!" << std::endl;
 	return 0;
 }
+
+# Happen free skill education seven.
+#include <iostream>
+int main() {
+	std::cout << "Hello, World!" << std::endl;
+	return 0;
+}
